@@ -33,8 +33,8 @@ export default function Page() {
                         </h2>
 
                         <p className="mt-4 leading-relaxed text-white/90">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nam dolorum aliquam,
-                            quibusdam aperiam voluptatum.
+                            Username:- samplesignin30@gmail.com
+                            Password:- samplesignin30
                         </p>
                     </div>
                 </section>
